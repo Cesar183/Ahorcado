@@ -1,0 +1,17 @@
+a{
+    text-align: center;
+    font-size: 150%;
+    text-decoration: none;
+    color: black;
+    background-color: gray;
+    padding: 10px;
+    border-radius: 20px;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+.menu{
+    text-align: center;
+    margin-top: 200px;
+}
