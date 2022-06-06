@@ -1,6 +1,6 @@
 var pantalla = document.querySelector("canvas");
     var pincel = pantalla.getContext("2d");
-var palabras = ['ALURA','AHORCADO', 'ORACLE', 'HTML','PROGRAMAR','JAVASCRIPT'];
+var palabras = ['GITHUB','DESAFIO', 'ORACLE', 'HTML','HOME','LOGICA'];
 var tablero = document.getElementById("horca").getContext("2d");
 var letras= [];
 var palabraCorrecta = "";
